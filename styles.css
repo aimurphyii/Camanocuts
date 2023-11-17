@@ -5,12 +5,14 @@ body {
   color:#77878B;
   padding: 20px;
   line-height:normal;
+  margin: 2%;
 }
 
 /* elements */
 
 h1 {
   font-size: x-large;
+  font-weight: bolder;
   color: #373E40;
   padding: 10px;
 }
@@ -24,7 +26,7 @@ p {
 
 section{
   font-size: small;
-  color:#ffffff;
+  color:#F4F7F5;
   background:#305252;
   padding:5px;
 }
