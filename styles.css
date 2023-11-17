@@ -1,4 +1,25 @@
 body {
-  font-family: sans-serif;
+  background-color: #f4f7f5;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   text-align: center;
+  color:#77878B;
+}
+
+/* elements */
+
+h1 {
+  font-size: larger;
+  color: #373E40;
+}
+
+p {
+  
+  font-size: medium;
+  color: #305252;
+}
+
+section{
+  font-size: small;
+  color:#F7ECE1;
+  background:#305252;
 }
