@@ -1,4 +1,4 @@
-import "./styles.css";
+import "styles.css";
 
 document.getElementById("app").innerHTML = `
 <h1>Camano Cuts Hair Salon</h1>
