@@ -3,23 +3,28 @@ body {
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   text-align: center;
   color:#77878B;
+  padding: 20px;
+  line-height:normal;
 }
 
 /* elements */
 
 h1 {
-  font-size: larger;
+  font-size: x-large;
   color: #373E40;
+  padding: 10px;
 }
 
 p {
   
   font-size: medium;
   color: #305252;
+  padding: 15px;
 }
 
 section{
   font-size: small;
-  color:#F7ECE1;
+  color:#F4F7F5;
   background:#305252;
+  padding:5px;
 }
