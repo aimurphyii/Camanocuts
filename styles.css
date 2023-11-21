@@ -24,11 +24,7 @@ p {
   padding: 15px;
 }
 
-section{
-  font-size: small;
-  color:#F4F7F5;
-  padding:5px;
-}
+
 div{
   text-align: center;
 }
@@ -38,7 +34,7 @@ div{
 @media(max-width: 1000px){
 
   h1 {
-  font-size: x-large;
+  font-size: xx-large;
   font-weight: bolder;
   color: #373E40;
   padding: 10px;
