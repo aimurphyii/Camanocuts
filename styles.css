@@ -35,44 +35,44 @@ div{
 
 
 /* mobile */
-@media(max-width: 959px){
+@media(max-width: 1000px){
 
-  /* h1 {
+  h1 {
   font-size: x-large;
   font-weight: bolder;
   color: #373E40;
   padding: 10px;
-} */
+}
 
-/* p {
+p {
   
   font-size: larger;
   color: #305252;
   padding: 15px;
 }
- */
-/* section{
+
+section{
   font-size: large;
   color:#F4F7F5;
   padding:5px;
 }
- */
+
   
   #head{
-    height: 75px;
-    /* line-height: 75px; */
+    height: inherit;
+    line-height: 75px;
     /* background:#305252; */
   }
 
   #blurb{
-    height:100px;
-    /* line-height:150px; */
+    height: inherit;
+    line-height: 50px;
     /* background: orange; */
   }
 
   #map{
     height:inherit;
-    /* line-height:125px; */
+    line-height: 50px;
     background:#305252;
     
   }
@@ -82,23 +82,23 @@ div{
 }
 }
   /* desktop */
-@media (min-width: 960px) {
+@media (min-width: 10001px) {
   #head{
     height: inherit;
     line-height: 100px;
-    /* background: orangered; */
+    /* background:  */
   }
 
   #blurb{
     height:inherit;
     line-height:50px;
-    /* background: darksalmon; */
+    /* background:  */
   }
 
   #map{
     height:inherit;
     line-height:50px;
-    /* background: yellowgreen; */
+    /* background: */
   }
 
 }
